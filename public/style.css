@@ -1,0 +1,11 @@
+:root {
+    --couleur1: #88e5fe
+    --couleur2: #4588ea
+    --couleur3: #4d55d8
+    --couleur4: #000000
+    --couleur5: #666666
+}
+
+.css {
+    background: var(--couleur1);
+}
